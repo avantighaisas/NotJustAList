@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  NotJustAList
+
+  Created by Avanti Ghaisas on 11/10/20.
+*/
+welcomeButtonTitle = "Explore Items";
+itemListNavTitle = "List Of Items";
+"itemId %lld" = "Id: %lld";
+"itemListId %lld" = "List: %lld";
+"itemName %@" = "Name: %@";
